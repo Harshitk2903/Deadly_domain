@@ -2,8 +2,8 @@
 import { useFormik } from 'formik';
 import React from 'react';
 import * as Yup from 'yup';
-import { Helix, Infinity } from 'ldrs/react'
-import 'ldrs/react/Infinity.css'
+// import { Helix, Infinity } from 'ldrs/react'
+// import 'ldrs/react/Infinity.css'
 
 
 const SignupSchema = Yup.object().shape({
