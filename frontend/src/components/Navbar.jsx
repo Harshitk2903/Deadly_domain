@@ -11,9 +11,9 @@ const Navbar = () => {
               <a
                 className="flex-none font-semibold text-xl text-black focus:outline-hidden focus:opacity-80 dark:text-white"
                 href="#"
-                aria-label="Brand"
+                aria-label=" Deadly_Domain"
               >
-                Brand
+                Deadly_Domain
               </a>
               {/* Collapse Button */}
               <button
