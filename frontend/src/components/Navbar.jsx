@@ -90,7 +90,7 @@ const Navbar = () => {
                           <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8" />
                           <path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
                         </svg>
-                        Landing
+                        Pricing
                       </a>
                       {/* Dropdown */}
                       <div className="hs-dropdown [--strategy:static] md:[--strategy:fixed] [--adaptive:none] [--is-collapse:true] md:[--is-collapse:false] ">
@@ -120,7 +120,7 @@ const Navbar = () => {
                             <path d="M10 12h11" />
                             <path d="M10 18h11" />
                           </svg>
-                          Dropdown
+                          Services
                           <svg
                             className="hs-dropdown-open:-rotate-180 md:hs-dropdown-open:rotate-0 duration-300 shrink-0 size-4 ms-auto md:ms-1"
                             xmlns="http://www.w3.org/2000/svg"
@@ -147,7 +147,7 @@ const Navbar = () => {
                               className="p-2 md:px-3 flex items-center text-sm text-gray-800 rounded-lg hover:bg-gray-100 focus:outline-hidden focus:bg-gray-100 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700 dark:focus:text-neutral-300"
                               href="#"
                             >
-                              About
+                             Explore
                             </a>
                             <div className="hs-dropdown [--strategy:static] md:[--strategy:absolute] [--adaptive:none] md:[--trigger:hover] [--is-collapse:true] md:[--is-collapse:false] relative">
                               <button
@@ -234,7 +234,7 @@ const Navbar = () => {
                           <path d="M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2" />
                           <circle cx={12} cy={7} r={4} />
                         </svg>
-                        Account
+                        Explore
                       </a>
                       <a
                         className="p-2 flex items-center text-sm text-gray-800 hover:bg-gray-100 rounded-lg focus:outline-hidden focus:bg-gray-100 dark:text-neutral-200 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700"
@@ -257,7 +257,7 @@ const Navbar = () => {
                           <path d="M22 13a18.15 18.15 0 0 1-20 0" />
                           <rect width={20} height={14} x={2} y={6} rx={2} />
                         </svg>
-                        Work
+                        Supports
                       </a>
                       <a
                         className="p-2 flex items-center text-sm text-gray-800 hover:bg-gray-100 rounded-lg focus:outline-hidden focus:bg-gray-100 dark:text-neutral-200 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700"
@@ -280,7 +280,7 @@ const Navbar = () => {
                           <path d="M15 18h-5" />
                           <path d="M10 6h8v4h-8V6Z" />
                         </svg>
-                        Blog
+                        Horizons
                       </a>
                     </div>
                   </div>
