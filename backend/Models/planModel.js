@@ -1,7 +1,7 @@
 const {Schema, model}=require('../connection');
 
 const mySchema =new Schema({
-    name : String,
+    Name : String,
     CPU : {type: Number },
     RAM : {type: String , required:true},
     Storage :{type: Number},
